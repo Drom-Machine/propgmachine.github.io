@@ -1,0 +1,25 @@
+h1 {
+    color: #a9ebb2
+}
+
+.big-title {
+    font-size: 80px;
+    opacity: 0.8;
+    background-color: red;
+    color:black;
+}
+
+h2 {
+    background-color: pink;
+}
+
+h6 {
+    font-size: 64px;
+}
+
+p {
+    background-color: yellow;
+    margin: 32px;
+    padding: 32px;
+}
+
